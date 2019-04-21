@@ -2,10 +2,13 @@
 
 This repo contains 3 set of client/server files.
 1. Basic client server
+
 -> Just to establish connection between client terminal and server terminal.
 2. Sync chat client server
+
 -> One by one client and server chat from the terminals.
 3. Async chat client server
+
 -> Full duplex chat.
 
 To run any of the set, first run the server file and then client file.
