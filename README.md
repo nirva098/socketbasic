@@ -14,3 +14,5 @@ Note:
 1. Files are written in python 3.
 2. IP addresses are generally of same machine, you can change it to your network machines
 3. full duplex chat files are not working on Windows platform, due to platform dependency of select module.
+
+Explanatory blog link: https://medium.com/@mysite/fun-with-sockets-1ffa3999f9b3
